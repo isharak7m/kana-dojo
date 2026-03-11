@@ -117,7 +117,7 @@
     "character": "Rival characters",
     "id": 12,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "japanese": "運命なんて、変えてみせる！",
@@ -127,7 +127,7 @@
     "character": "Class Zero",
     "id": 13,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "japanese": "生きるってのは、戦うってことだ",
@@ -177,7 +177,7 @@
     "character": "Revali",
     "id": 18,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "japanese": "俺たちの物語は、ここからだ",
@@ -186,7 +186,7 @@
     "game": "Tales series",
     "character": "Various endings",
     "id": 19,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {

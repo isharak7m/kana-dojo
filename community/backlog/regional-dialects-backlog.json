@@ -67,7 +67,7 @@
     "note": "Hokkaido intensifier. (Set 1)",
     "id": 7,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "dialect": "したっけ",
@@ -77,7 +77,7 @@
     "note": "Transition/goodbye phrase. (Set 1)",
     "id": 8,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "dialect": "〜ばい",
@@ -86,7 +86,7 @@
     "region": "Fukuoka",
     "note": "Assertive friendly ending. (Set 1)",
     "id": 9,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
